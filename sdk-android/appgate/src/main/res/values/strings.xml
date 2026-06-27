@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appgate_default_title">שיפורים בדרך</string>
+    <string name="appgate_default_message">אנחנו משדרגים את המערכת</string>
+    <string name="appgate_return_at">נחזור בשעה %1$s</string>
+    <string name="appgate_retry">נסה שוב</string>
+</resources>

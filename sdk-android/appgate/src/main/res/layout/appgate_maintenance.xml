@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp"
+    android:background="#F4F6FB">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🚧"
+        android:textSize="56sp"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/appgate_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#1B2030" />
+
+    <TextView
+        android:id="@+id/appgate_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="#4A5470"
+        android:gravity="center"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/appgate_return"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:textColor="#1C7A55"
+        android:background="#E2F4EC"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="6dp"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/appgate_retry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/appgate_retry"
+        android:layout_marginTop="24dp" />
+</LinearLayout>

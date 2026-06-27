@@ -1,0 +1,20 @@
+# ---- Node (server + portal) ----
+node_modules/
+dist/
+.env
+*.log
+npm-debug.log*
+
+# ---- Android / Gradle (sdk-android) ----
+.gradle/
+build/
+*/build/
+local.properties
+.cxx/
+*.apk
+*.aab
+
+# ---- IDE ----
+.idea/
+*.iml
+.DS_Store
