@@ -57,8 +57,6 @@ appgate/
 ---
 ### צילומי מסך וסרטון
 
-להשלמה לפני ההגשה — צרף כאן:
-
 🎬 **סרטון דמו **
 <video src="docs/demo.mp4" width="100%" controls></video>
 
