@@ -57,9 +57,6 @@ appgate/
 ---
 ### צילומי מסך וסרטון
 
-🎬 **סרטון דמו **
-<video src="docs/demo.mp4" width="100%" controls></video>
-
 🖼️ **לוח החירום בפורטל**
 ![לוח החירום בפורטל](docs/portal-dashboard.png)
 
